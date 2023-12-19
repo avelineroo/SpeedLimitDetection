@@ -33,7 +33,7 @@ I choose **Average Precision (AP)** as the error metric for my model. AP is a wi
 - **Overall Average Precision (AP):** the average precision at different Intersection over Union (IoU) thresholds, ranging from 0.5 to 0.95 in steps of 0.05. This metric effectively measures the model's accuracy across various overlap thresholds between the predicted and actual bounding boxes.
 - **AP50:** AP at 50% IoU threshold
 - **AP75:** AP at 75% IoU threshold
-- **APs: **Average Precision for small objects
+- **APs:** Average Precision for small objects
 - **APm:** Average Precision for medium-sized objects
 - **APl:** Average Precision for large objects
 
